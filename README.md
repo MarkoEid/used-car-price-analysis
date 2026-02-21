@@ -1,6 +1,6 @@
 # 🚗 Used Cars Market Analysis
 
-<img width="832" height="900" alt="Picture0" src="https://github.com/user-attachments/assets/4ff0eb99-7791-41b5-9786-f322c51427f8" />
+<img width="900" height="900" alt="Picture0" src="https://github.com/user-attachments/assets/4ff0eb99-7791-41b5-9786-f322c51427f8" />
 
 
 
